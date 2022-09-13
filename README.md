@@ -1,4 +1,4 @@
-# hello-world
-my first repository
+# Multivariate Time-Series Forecasting for Temperature prediction
+This project was to implement a neural network on a intel galileo microcomputer board.
 
-I am a student learning git.
+
